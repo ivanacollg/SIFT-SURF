@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 #%matplotlib inline
 
+print("hello")
 # Load the image
 image1 = cv2.imread('images/cat.jpg')
 
